@@ -8,7 +8,7 @@
 
 I’m a Software Engineer passionate about building efficient, scalable, and well-designed solutions.
 
-- Experience with backend development (Java, Elixir, PHP) and modern frontend tools (React, Next.js)
+- Experience with backend development (Java, Elixir, Python, PHP) and modern frontend tools (React, Next.js)
 - Worked on real-world projects involving AI integration, web systems, and backend architecture
 - Skilled in designing APIs, modeling databases, and collaborating on planning and development
 - Focused on writing maintainable code, understanding problems clearly, and delivering reliable solutions
@@ -54,9 +54,6 @@ I’m a Software Engineer passionate about building efficient, scalable, and wel
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ## 📫 Contact
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.rivaldy77@gmail.com)  
-**Email:** [**guilherme.rivaldy77@gmail.com**](mailto:guilherme.rivaldy77@gmail.com)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.rivaldy77@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-rivaldy/)  
-**LinkedIn:** https://www.linkedin.com/in/guilherme-rivaldy/
+**Email:** [**guilherme.rivaldy77@gmail.com**](mailto:guilherme.rivaldy77@gmail.com)
