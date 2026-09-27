@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Guilherme Rivaldy
+'  # 👋 Hello! I'm Guilherme Rivaldy
 
 🎓 Software Engineer graduated from the University of Pernambuco (UPE)  
 💻 Full-stack developer with a strong focus on backend and architecture  
@@ -18,19 +18,16 @@ I’m a Software Engineer passionate about building efficient, scalable, and wel
 ### 💻 Languages
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 
 ### 🧩 Backend
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Phoenix Framework](https://img.shields.io/badge/phoenixframework-%23FD4F00.svg?style=for-the-badge&logo=phoenixframework&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Phoenix Framework](https://img.shields.io/badge/phoenixframework-%23FD4F00.svg?style=for-the-badge&logo=phoenixframework&logoColor=black)
 
 ### 🎨 Frontend
 
@@ -49,9 +46,20 @@ I’m a Software Engineer passionate about building efficient, scalable, and wel
 
 ### ⚙️ DevOps & Messaging
 
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### 🧪 QA & Tests
+
+![JUnit 5](https://img.shields.io/badge/JUnit%205-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-%2378A641.svg?style=for-the-badge&logo=mockito&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-%23000000.svg?style=for-the-badge&logo=testcontainers&logoColor=white)
+![Rest Assured](https://img.shields.io/badge/Rest%20Assured-%2300A98F.svg?style=for-the-badge)
+![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-%23D22128.svg?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-%2345BA4.svg?style=for-the-badge&logo=playwright&logoColor=white)
+
 
 ## 📫 Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.rivaldy77@gmail.com)
