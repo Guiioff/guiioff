@@ -1,4 +1,4 @@
-'  # 👋 Hello! I'm Guilherme Rivaldy
+# 👋 Hello! I'm Guilherme Rivaldy
 
 🎓 Software Engineer graduated from the University of Pernambuco (UPE)  
 💻 Full-stack developer with a strong focus on backend and architecture  
